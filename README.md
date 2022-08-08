@@ -1,4 +1,4 @@
-# MuSe-2022 Baseline Model: LSTM Regressor
+# MuSe-2022 Baseline Model: LSTM Regressor + Transformer Encoder
 
 [Homepage](https://www.muse-challenge.org) || [Baseline Paper](https://www.researchgate.net/publication/359875358_The_MuSe_2022_Multimodal_Sentiment_Analysis_Challenge_Humor_Emotional_Reactions_and_Stress)
 
