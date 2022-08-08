@@ -24,6 +24,7 @@ You can then e.g. run the unimodal baseline reproduction calls in the ``*.sh`` f
 
 ## Settings
 The ``main.py`` script is used for training and evaluating models. Most important options:
+* ``--model_type`` : choose either `LSTM` or `Transformer`
 * ``--task``: choose either `humor`, `reaction` or `stress` 
 * ``--feature``: choose a feature set provided in the data (in the ``PATH_TO_FEATURES`` defined in ``config.py``). Adding 
 ``--normalize`` ensures normalization of features (recommended for eGeMAPS features).
